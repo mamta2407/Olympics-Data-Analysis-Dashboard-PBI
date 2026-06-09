@@ -221,7 +221,7 @@ Governments and sports authorities can make informed investment decisions based 
 ---
 
 ## Screenshot
-
+https://github.com/mamta2407/Olympics-Data-Analysis-Dashboard-PBI/blob/main/olympic%20data%20analysis.png
 
 ## 👨‍💻 Author
 
